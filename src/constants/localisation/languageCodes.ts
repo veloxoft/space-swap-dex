@@ -29,8 +29,8 @@ export const UK = { code: 'uk', language: 'Українська' }
 export const VI = { code: 'vi', language: 'Tiếng Việt' }
 
 export const allLanguages = [
-  EN,
-  AR,
+  EN
+  /* AR,
   CA,
   ZHCN,
   ZHTW,
@@ -57,5 +57,5 @@ export const allLanguages = [
   TA,
   TR,
   UK,
-  VI
+  VI */
 ]

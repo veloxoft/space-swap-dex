@@ -19,6 +19,8 @@ window.addEventListener('error', () => {
   localStorage && localStorage.removeItem('redux_localstorage_simple_lists')
 })
 
+console.log(process.env)
+
 ReactDOM.render(
   <StrictMode>
     <Providers>

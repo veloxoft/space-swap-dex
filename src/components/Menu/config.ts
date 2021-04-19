@@ -30,8 +30,8 @@ const config: MenuEntry[] = [
     label: 'Pools',
     icon: 'PoolIcon',
     href: 'https://pancakeswap.finance/syrup'
-  },
-  {
+  }
+  /* {
     label: 'Lottery',
     icon: 'TicketIcon',
     href: 'https://pancakeswap.finance/lottery'
@@ -40,8 +40,8 @@ const config: MenuEntry[] = [
     label: 'NFT',
     icon: 'NftIcon',
     href: 'https://pancakeswap.finance/nft'
-  },
-  {
+  }, */
+  /* {
     label: 'Info',
     icon: 'InfoIcon',
     items: [
@@ -62,13 +62,13 @@ const config: MenuEntry[] = [
         href: 'https://pancakeswap.info/accounts'
       }
     ]
-  },
-  {
+  }, */
+  /* {
     label: 'IFO',
     icon: 'IfoIcon',
     href: 'https://pancakeswap.finance/ifo'
-  },
-  {
+  }, */
+  /* {
     label: 'More',
     icon: 'MoreIcon',
     items: [
@@ -89,7 +89,7 @@ const config: MenuEntry[] = [
         href: 'https://pancakeswap.medium.com'
       }
     ]
-  }
+  } */
 ]
 
 export default config
